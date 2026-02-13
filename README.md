@@ -27,6 +27,7 @@ I started my career in development as a web frontend developer. Step by step, I 
 ## Development Tools
 
 ![VSCode](https://img.shields.io/badge/VS%20Code-0075B7?style=flat&logo=vscodium&logoColor=white)
+![Gemini CLI](https://img.shields.io/badge/Gemini%20CLI-0075B7?style=flat&logo=googlegemini&logoColor=white)
 
 ## Database
 
