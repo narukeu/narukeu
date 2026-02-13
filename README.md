@@ -2,7 +2,7 @@
 
 I started my career in development as a web frontend developer. Step by step, I learned backend and full-stack development through Node.js, and finally learned Golang.
 
-- Email: <narukeu@outlook.com>
+- Email: <narukeu@outlook.com> and <lukenaby21@gmail.com>
 - Launchpad: [https://launchpad.net/~narukeu](https://launchpad.net/~narukeu)
 
 ## Languages
@@ -14,11 +14,10 @@ I started my career in development as a web frontend developer. Step by step, I 
 
 ![React.js](https://img.shields.io/badge/React.js-087EA4?style=flat&logo=react&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-42B883?style=flat&logo=vue.js&logoColor=white)
+![Fasitfy](https://img.shields.io/badge/Fastify-202020?style=flat&logo=fastify&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-EA258D?style=flat&logo=nestjs&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![Tailwind%20CSS](https://img.shields.io/badge/Tailwind%20CSS-00BCFF?style=flat&logo=tailwindcss&logoColor=white)
 ![Gin](https://img.shields.io/badge/Gin-008ECE?style=flat&logo=gin&logoColor=white)
-![GORM](https://img.shields.io/badge/GORM-3F424A?style=flat&logo=go&logoColor=white)
 ![LangChain and LangGraph](https://img.shields.io/badge/LangChain%20%26%20LangGraph-1C3C3C?style=flat&logo=langchain&logoColor=white)
 
 ## Infrastructure & DevOps
