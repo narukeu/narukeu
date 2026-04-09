@@ -24,11 +24,6 @@ I started my career in development as a web frontend developer. Step by step, I 
 
 ![Docker](https://img.shields.io/badge/Docker-2560FF?style=flat&logo=docker&logoColor=white)
 
-## Development Tools
-
-![VSCode](https://img.shields.io/badge/VS%20Code-0075B7?style=flat&logo=vscodium&logoColor=white)
-![Gemini CLI](https://img.shields.io/badge/Gemini%20CLI-0075B7?style=flat&logo=googlegemini&logoColor=white)
-
 ## Database
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
@@ -41,3 +36,5 @@ I started my career in development as a web frontend developer. Step by step, I 
 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
 ![ReactOS](https://img.shields.io/badge/ReactOS-0078D4?style=flat&logo=reactos&logoColor=white)
+![Cockpit](https://img.shields.io/badge/Cockpit-0066CC?style=flat&logo=cockpit&logoColor=white)
+![Winetricks](https://img.shields.io/badge/Winetricks-800000?style=flat&logo=gnubash&logoColor=white)
